@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juanicarrizo97@gmail.com**
 
-- 📄 Know about my experiences [https://cv-juani981-en.netlify.app](https://cv-juani981-en.netlify.app)
+- 📄 Know about my experiences [https://juani981cv-en.netlify.app](https://cv-juani981-en.netlify.app)
 
 - ⚡ Fun fact **I studied Electronics Engineering for 3 years, during the 2020 pandemic I switched to a University Programmer Grade in National University of Tucumán**
 
